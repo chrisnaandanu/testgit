@@ -1,0 +1,1 @@
+ini adalah penggunaan git dengan membuat sebuah file baru
